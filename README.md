@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macrocephalus
 - 👀 I’m interested in Node JS and everything related to programming, I respect every language programming and people for which they write code
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on Node js projects in different industries
 - 📫 How to reach me zhilab1993@gmail.com
 
